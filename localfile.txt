@@ -1,0 +1,2 @@
+This file is created in Gitbash,by using commands and it will save in local.
+Then the file is added,commited,pushed to GitHub repo
